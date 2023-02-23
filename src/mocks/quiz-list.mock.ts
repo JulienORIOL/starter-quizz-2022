@@ -17,7 +17,7 @@ import { Question } from '../models/question.model';
 
 export const QUIZ_LIST: Quiz[] = [
     {
-        name: 'Les Acteurs de Popo', // What's happening if I change this value..?
+        name: 'Les Acteurs de Popooooo', // What's happening if I change this value..?
         theme: 'Actor',
         questions: [],
     },
